@@ -1,10 +1,14 @@
 # Brain-Tumor-Detection
 1. Data Set Description (Dataset is taken from Kaggle)
+
 The image data that was used for this problem is Br35H :: Brain Tumor Detection 2020. It conists of MRI scans of two classes:
 
 NO - no tumor, encoded as 0
 YES - tumor, encoded as 1
+
 Unfortunately, the data set description doesn't hold any information where this MRI scans come from and so on.
+
+link :- https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
 1.2. What is Brain Tumor?
 
